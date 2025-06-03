@@ -1,6 +1,6 @@
 # **Bicentric Validation of Radiomics Signature**
 
-This repository contains code and resources used in the paper <TO_BE_UPDATED_AFTER_PUBLICATION>.
+This repository contains code and resources used in the paper "The Challenge of External Generalisability: Insights from the Bicentric Validation of a [68Ga]Ga-PSMA-11 PET Based Radiomics Signature for Primary Prostate Cancer Characterisation Using Histopathology as Reference".
 
 **Overview**
 
